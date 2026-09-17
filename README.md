@@ -16,4 +16,4 @@ An automated Zapier workflow that runs daily to determine the optimal social med
 > "Analyze social media patterns and determine the best time to post on social media tomorrow to get the maximum engagement and insights. Consider timezone, audience behavior, and platform-specific best practices..."
 
 ## 📸 Workflow Architecture
-<img width="1920" height="1200" alt="workflow screenshot png" src="https://github.com/user-attachments/assets/2f83f3e4-2a2c-41e3-a4d5-c2005f98d316" />
+<img width="1920" height="1150" alt="workflow screenshot png" src="https://github.com/user-attachments/assets/2f83f3e4-2a2c-41e3-a4d5-c2005f98d316" />
